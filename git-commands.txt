@@ -6,3 +6,6 @@ git commit -m ""
 git diff
 git log
 
+
+adding text for branch1
+
