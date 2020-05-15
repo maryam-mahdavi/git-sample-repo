@@ -1,5 +1,8 @@
+git commands:
 git status
 git init
 git add ""
 git commit -m ""
+git diff
+git log
 
